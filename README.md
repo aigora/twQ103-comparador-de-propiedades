@@ -5,7 +5,7 @@ Se trata de un comparador de propiedades de los elementos, en el que al escribir
 ## Integrantes del equipo
 
 Juan José Lorenzo Rolo,JuanjoLR .
-David Molano González, Davidmolano25
+David Molano González, Davidmolano25.
 Diego Sena Suárez, MrHook6.
 
 ## Objetivos del trabajo
